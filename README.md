@@ -33,9 +33,6 @@
 ---
 
 ## 🚀 安装
-```bash
-pip install diewei-skill
-```
 
 ```bash
 git clone https://github.com/Crazy4Lamb/diewei.skill.git
