@@ -2,7 +2,7 @@
 > “你懂个屁，我吃的盐比你吃的米都多，听我的准没错，年轻人就是太浮躁”
 
 [![许可证: MIT](https://img.shields.io/badge/许可证-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-蓝色.svg)](https://www.python.org/)
+[![Python 3.9+](https://img.shields.io/badge/Python-3.6+-蓝色.svg)](https://www.python.org/)
 [![Claude 代码](https://img.shields.io/badge/Claude_代码-技能-purple.svg)](https://claude.ai/code)
 [![智能体技能](https://img.shields.io/badge/智能体技能-标准-绿色.svg)](https://github.com/agentskills)
 [![爹味浓度](https://img.shields.io/badge/爹味浓度-100%25-红色.svg)]()
