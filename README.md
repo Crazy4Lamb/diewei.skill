@@ -38,8 +38,8 @@ pip install diewei-skill
 ```
 
 ```bash
-git clone https://github.com/Crazy4Lamb/diewei-skill.git
-cd diewei-skill
+git clone https://github.com/Crazy4Lamb/diewei.skill.git
+cd diewei.skill
 pip install -r requirements.txt
 ```
 
